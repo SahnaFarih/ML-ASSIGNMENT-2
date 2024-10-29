@@ -1,0 +1,24 @@
+ML ASSIGNMENT 2
+Members details
+Name: A.H Sahna Sreen
+Reg no: MS230001152
+SLIIT Mail: ms23001152@my.sliit.lk, sahnasreenabulhassan@gmail.com
+Master of Science in Information Technology 
+2Y2S
+
+
+
+Name: S.L. Fathima Ruksana
+Reg no: MS23005280
+SLIIT Mail: ms23005280@my.sliit.lk, fathimaruksanasl@gmail.com
+Master of Science in Information Technology 
+2Y2S
+
+
+YouTube Link: https://youtu.be/4W6YTNVZXng
+
+
+Dataset Link: https://www.kaggle.com/saramah , https://www.kaggle.com/code/paultimothymooney/predict-diabetes-from-medical-records
+
+GitHub Link: https://github.com/SahnaFarih/ML-ASSIGNMENT-2
+ 
